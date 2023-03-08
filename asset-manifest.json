@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/static/css/main.ccd93818.css",
+    "main.js": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/static/js/main.6ec44306.js",
+    "static/media/README.md": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/static/media/README.151629650eeeffcb29e2.md",
+    "index.html": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/index.html",
+    "main.ccd93818.css.map": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/static/css/main.ccd93818.css.map",
+    "main.6ec44306.js.map": "/MR-DHRUV/Axonify-The-Secrect-Messenging-API/static/js/main.6ec44306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd93818.css",
+    "static/js/main.6ec44306.js"
+  ]
+}
