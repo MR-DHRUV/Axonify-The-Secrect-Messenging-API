@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/96929879-c192-4643-b0fb-1052e707e327/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/axonify",
+    "appService.deploySubpath": "."
+}
