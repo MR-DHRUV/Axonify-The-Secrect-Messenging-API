@@ -11,7 +11,7 @@
 ### Getting API key
 - User will be provided with two keys, a public and a private key
 - Private key will be used to send and recieve messages 
-- Public key will be used to determine the reciever. You can broadcast you public key to recieve messages.
+- Public key will be used to determine the reciever. You can broadcast your public key to recieve messages.
 
 ```js
   POST https://axonify.azurewebsites.net/user/new
